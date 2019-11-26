@@ -1,0 +1,11 @@
+C:\Users\Kasutaja\Desktop\Janne\Koolitööd\NewYearsResolutions\NewYearsResolutions\obj\Debug\netcoreapp2.1\NewYearsResolutions.csprojAssemblyReference.cache
+C:\Users\Kasutaja\Desktop\Janne\Koolitööd\NewYearsResolutions\NewYearsResolutions\obj\Debug\netcoreapp2.1\NewYearsResolutions.csproj.CoreCompileInputs.cache
+C:\Users\Kasutaja\Desktop\Janne\Koolitööd\NewYearsResolutions\NewYearsResolutions\obj\Debug\netcoreapp2.1\NewYearsResolutions.AssemblyInfoInputs.cache
+C:\Users\Kasutaja\Desktop\Janne\Koolitööd\NewYearsResolutions\NewYearsResolutions\obj\Debug\netcoreapp2.1\NewYearsResolutions.AssemblyInfo.cs
+C:\Users\Kasutaja\Desktop\Janne\Koolitööd\NewYearsResolutions\NewYearsResolutions\bin\Debug\netcoreapp2.1\NewYearsResolutions.deps.json
+C:\Users\Kasutaja\Desktop\Janne\Koolitööd\NewYearsResolutions\NewYearsResolutions\bin\Debug\netcoreapp2.1\NewYearsResolutions.runtimeconfig.json
+C:\Users\Kasutaja\Desktop\Janne\Koolitööd\NewYearsResolutions\NewYearsResolutions\bin\Debug\netcoreapp2.1\NewYearsResolutions.runtimeconfig.dev.json
+C:\Users\Kasutaja\Desktop\Janne\Koolitööd\NewYearsResolutions\NewYearsResolutions\bin\Debug\netcoreapp2.1\NewYearsResolutions.dll
+C:\Users\Kasutaja\Desktop\Janne\Koolitööd\NewYearsResolutions\NewYearsResolutions\bin\Debug\netcoreapp2.1\NewYearsResolutions.pdb
+C:\Users\Kasutaja\Desktop\Janne\Koolitööd\NewYearsResolutions\NewYearsResolutions\obj\Debug\netcoreapp2.1\NewYearsResolutions.dll
+C:\Users\Kasutaja\Desktop\Janne\Koolitööd\NewYearsResolutions\NewYearsResolutions\obj\Debug\netcoreapp2.1\NewYearsResolutions.pdb
